@@ -1,0 +1,28 @@
+#wrap {min-width: 1800px; max-width: 1920px;}
+#wrap header {display: flex ; flex-flow: row nowrap; padding: 26px 113px; border-bottom: 1px solid #4E4E4E; align-items: center;}
+nav {margin-left: 400px; margin-right:697px ; }
+.gnb {display: flex ; flex-flow: row nowrap; gap: 59px; width: 344px; }
+.gnb li {font-size: 1.125rem; font-weight: 500;}
+
+#container {width: 1440px; margin: 0 auto;}
+.card_title {display: flex; flex-flow: row nowrap; justify-content: space-between; margin-top: 97px; margin-bottom:113px ; }
+.card_title_txt > h1 {margin-bottom:12px ; font-size: 2rem; font-weight: 500;}
+#new_btn {width: 159px; height: 39px; background-color: #2743F8 ; border-radius: 10px; font-size: 0.875rem; color: #fff;}
+
+.card_1 .card_content {font-size: 1.125rem; font-weight: 500; line-height: 150%; margin-bottom: 51px;}
+.card_1 .card_sub_txt {line-height: 150%; margin-bottom: 15px;}
+.card_1_img {display: flex; flex-flow: row nowrap; margin-top:10px ; margin-bottom:145px ;}
+.card_1_txt { width: 720px; text-align: center; margin-top: 90px ;}
+.card_1_img .card_1_txt > span {font-size: 1.5rem; font-weight: 500; display: block; margin-bottom:32px ;}
+.card_1_img .card_1_txt > p {line-height: 150%;}
+
+.card_1 .card_2_txt { text-align: right; font-size: 1.25rem; font-weight:500 ; margin-bottom: 22px; margin-top:35px ;}
+.card_2_img {display: flex; flex-flow: row nowrap; margin-bottom:194px ;}
+.card_3 > img {margin-bottom: 115px;}
+
+#more {display: block; margin: 0 auto; width:109px; height: 39px; border: 1px solid #FFA973; border-radius:10px ; font-size: 0.875rem; color:#FFA973 ;}
+.last_txt {width:100% ;height: 265px; background-color:#F4F4F4 ; text-align: center; margin-top:98px ; padding-top: 109px;}
+.last_txt > p {font-size: 1.125rem; font-weight: 500; line-height: 150%;}
+
+footer {width: 100%; height:143px ; background-color: #2F2F2F;}
+footer address {color: #fff; text-align: center; line-height: 143px;}
